@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",        // Output directory for compiled JS files
+    "rootDir": "./src",        // Input directory for TypeScript files
+    "target": "es5",           // Target JavaScript version for older browser support
+    "module": "commonjs",      // Module system for the browser
+    "strict": true             // Enable strict type-checking options
+  }
+}
